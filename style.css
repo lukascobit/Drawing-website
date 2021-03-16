@@ -1,0 +1,30 @@
+
+* {
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+#canvas{
+    border: 2px black double;
+    margin: 0;
+    cursor: pointer;
+}
+.range{
+    position:absolute;
+    top: 10%;
+    left: 96%;
+    
+    padding: 0px;
+    margin: 0px;
+    transform: rotate(90deg); 
+}
+.color{
+    position:absolute;
+    
+    top: 25%;
+    left: 98%;
+    
+    padding: 0px;
+    margin: 0px;
+    transform: rotate(90deg); 
+}
